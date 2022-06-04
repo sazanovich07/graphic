@@ -1,0 +1,10 @@
+C:\Users\iwnl0\source\repos\Графики функций\bin\Debug\Графики функций.exe.config
+C:\Users\iwnl0\source\repos\Графики функций\bin\Debug\Графики функций.exe
+C:\Users\iwnl0\source\repos\Графики функций\bin\Debug\Графики функций.pdb
+C:\Users\iwnl0\source\repos\Графики функций\obj\Debug\Графики функций.csproj.AssemblyReference.cache
+C:\Users\iwnl0\source\repos\Графики функций\obj\Debug\Графики_функций.Form1.resources
+C:\Users\iwnl0\source\repos\Графики функций\obj\Debug\Графики_функций.Properties.Resources.resources
+C:\Users\iwnl0\source\repos\Графики функций\obj\Debug\Графики функций.csproj.GenerateResource.cache
+C:\Users\iwnl0\source\repos\Графики функций\obj\Debug\Графики функций.csproj.CoreCompileInputs.cache
+C:\Users\iwnl0\source\repos\Графики функций\obj\Debug\Графики функций.exe
+C:\Users\iwnl0\source\repos\Графики функций\obj\Debug\Графики функций.pdb
